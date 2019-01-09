@@ -13,10 +13,10 @@ console.log("uuid------->",uuidv4());
 pubnub constructor with keyset 
 -----------------------------------------------*/
 var pubnub = new PubNub({
-    subscribeKey: "sub-c-5103f638-3cab-11e8-a2e8-d2288b7dcaaf",
-    publishKey: "pub-c-33f39334-f8c8-46e6-aec8-2417e5a3b453",
+    subscribeKey: "**",
+    publishKey: "**",
     ssl: true,
-    secretKey:"sec-c-OThkYTBmODgtY2ZlYi00MzFiLWExMjUtYzI3ZWRiYjIwMTIz"
+    secretKey:"**"
     //uuid:uuidv4()
 });
 
